@@ -64,7 +64,7 @@ li {
   color: #555;
 }
 
-#clear-all {
+.clear-all {
   width: 100%;
   padding: 10px;
   background-color: #f44336;
@@ -75,6 +75,6 @@ li {
   margin-top: 10px;
 }
 
-#clear-all:hover {
+.clear-all:hover {
   background-color: #d32f2f;
 }
